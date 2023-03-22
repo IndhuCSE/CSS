@@ -1,0 +1,66 @@
+for inline....
+<p style="color: blue;background-color: grey;">
+to make a style block..
+<style>
+p{
+color: red;
+}--all the p tags will change red.
+</style>
+adding more styles...
+for class
+.blue-text{
+color: blue;
+}for having a class blue-text.
+chaning font size..
+font-size: 30px;
+font-family: monospace--->letters style
+import fonts from google..
+<link href="" rel="stylesheet"type="text/css">
+h2{
+font-family: Lobster,'Open Sans'-->for backup fonts;
+}
+.large{
+width: 500px;
+}
+adding borders...
+border-family: Lobster;
+border-color: green;
+border-width: 10px;
+border-style: solid;
+border-radius: 10px; if in % it makes a circle
+set the id of an element....
+for id attribute:
+#idname{
+color: blue;
+}-->giving higher preference to id than class,and one id for one element.
+adjust the padding...
+eg:padding: 20px;
+adjust the margin..
+eg:margin: 20px;
+add different padding:
+padding-top: 40px;
+padding-right: 40 px;
+padding-left: 20 px;
+padding-bottom:20 px;
+use clockwise notation to specify the margin--
+margin: 40px 20px 20px 30px;
+
+
+<style>
+[type='radio']{
+margin: 20px;
+</style>
+understand absolute versus relative units-->
+!important--->overriding all other styles.
+use hex code....
+background-color: #000000;-->black
+background-color: rgb(255,255,255)--white
+u can mix colors;
+background-color: rgb(255,112,214);
+
+
+
+
+
+
+
